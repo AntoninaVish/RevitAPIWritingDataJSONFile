@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIWritingDataJSONFile.dll"</Assembly>
+		
+		<AddInId>79D900EA-E4F1-40B2-89CF-581157DCB592</AddInId>
+		<FullClassName>RevitAPIWritingDataJSONFile.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись данных в файл JSON для Revit</Text>
+	</AddIn>
+</RevitAddIns>
